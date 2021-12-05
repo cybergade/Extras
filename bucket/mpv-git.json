@@ -13,7 +13,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/mpv-player-windows/64bit/mpv-x86_64-20211205-git-fc94c8c.7z",
+            "url": "https://downloads.sourceforge.net/project/mpv-player-windows/64bit/mpv-x86_64-20211205-git-fc94c8c.7z?use_mirror=onboardcloud",
             "hash": "sha1:7398a96a89de548c05735ab625f6b59d08cb55f2"
         },
         "32bit": {
